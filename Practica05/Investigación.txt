@@ -1,0 +1,4 @@
+@param -  es un formato especial de comentario utilizado para generar la documentación. Denota una descripción del parámetro (o varios parámetros) que un método puede recibir
+@version - es un formato especial de comentario utilizado para generar la documentación. Denota una descripción de la versión que puede correr el programa
+@return - es un formato especial de comentario utilizado para generar la documentación. Denota una descripción de los resultados que un método puede regresar
+@author - es un formato especial de comentario utilizado para generar la documentación. Denota una descrpción de el autor que realizó el programa
